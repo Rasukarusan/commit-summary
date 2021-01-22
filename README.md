@@ -17,6 +17,8 @@ a722eac replace step
 6e5bf22 create action for get commit summary
 ```
 
+![example.png](https://user-images.githubusercontent.com/17779386/105448596-ebd14e00-5cb9-11eb-95c4-c280c36d7288.png)
+
 ## Example workflow
 
 ```yaml
